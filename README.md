@@ -1,1 +1,2 @@
 # Structuring-the-Application-and-Routing
+I used a layerd organization style where I had folder for each specific role. As for routing, I added two routes, one for my Products controller and the other for my HelloWorld controller. The route for Products was to simply display the index of products (/Products/Index). The route for HelloWorld was to display the Welcome action with the option to add route values (HelloWorld/Welcome/name?/numTimes?). For example, HelloWorld/Welcome/John/5.
